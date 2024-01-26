@@ -1,5 +1,6 @@
-def main()
-print (Hello Wprld)
+#include <iostream>
 
-if __name__ == '__main__'
-main()
+int main()
+{
+ std::cout << "Hello World" << std::endl;
+}
